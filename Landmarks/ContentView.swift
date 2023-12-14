@@ -23,6 +23,9 @@ struct ContentView: View {
                 Spacer()
                 Text("With the gheto")
                     .font(.subheadline)
+                Spacer()
+                Text("With no chills")
+                    .font(.subheadline)
             })
         }
         .padding(36)
